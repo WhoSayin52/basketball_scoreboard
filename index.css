@@ -49,6 +49,11 @@ button {
     color: var(--light-purple);
 }
 
+button:hover {
+    border-color: var(--white);
+    color: var(--white);
+}
+
 .container-row {
     display: flex;
 }
